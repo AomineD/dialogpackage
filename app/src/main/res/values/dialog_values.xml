@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_descr">To continue enjoying our content, please download our new application</string>
+    <string name="dialog_title">UPDATE</string>
+
+    <string name="dialog_accept">ACCEPT</string>
+
+    <string name="dialog_cancel">CANCEL</string>
+
+    <color name="black">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="accept">#1645BB</color>
+</resources>
