@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
-apply plugin: 'maven'
+apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.gitlab.shaiyafusion30'
+group = 'com.github.AomineD'
 version = '1.0'
 
 android {
