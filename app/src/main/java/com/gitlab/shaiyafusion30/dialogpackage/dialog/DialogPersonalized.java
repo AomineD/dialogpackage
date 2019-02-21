@@ -1,14 +1,6 @@
-package com.example.test.dialog;
+package com.gitlab.shaiyafusion30.dialogpackage.dialog;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Paint;
-import android.graphics.PorterDuff;
-import android.graphics.PorterDuffXfermode;
-import android.graphics.Rect;
-import android.graphics.RectF;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
@@ -16,7 +8,6 @@ import android.support.v7.app.AlertDialog;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.view.animation.Transformation;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -27,7 +18,6 @@ import com.morocco.arabic.music.R;
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;
 
-import jp.wasabeef.glide.transformations.BlurTransformation;
 import jp.wasabeef.glide.transformations.RoundedCornersTransformation;
 import pl.droidsonroids.gif.GifImageView;
 

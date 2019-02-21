@@ -1,10 +1,8 @@
-package com.example.test.dialog;
+package com.gitlab.shaiyafusion30.dialogpackage.dialog;
 
 import android.annotation.SuppressLint;
-import android.app.AlertDialog;
 import android.content.ActivityNotFoundException;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
