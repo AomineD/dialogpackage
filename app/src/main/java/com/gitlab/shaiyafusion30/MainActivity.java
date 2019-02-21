@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.gitlab.shaiyafusion30.dialogpackage.R;
+import com.gitlab.shaiyafusion30.dialogpackage.dialog.DialogPackage;
 
 public class MainActivity extends AppCompatActivity {
 
